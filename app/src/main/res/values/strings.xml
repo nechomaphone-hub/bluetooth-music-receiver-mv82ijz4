@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מקלט מוזיקה Bluetooth</string>
+    <string name="subtitle">בדיקה וחיבור A2DP Sink עבור Fanvace</string>
+    <string name="section_device_info">מצב המכשיר הנוכחי</string>
+    <string name="label_local_name">שם המכשיר:</string>
+    <string name="label_bluetooth_state">מצב Bluetooth:</string>
+    <string name="label_discoverable_state">מצב גילוי:</string>
+    <string name="section_sink_support">תמיכת מערכת במקלט שמע (A2DP Sink)</string>
+    <string name="section_connected_device">טלפון מחובר</string>
+    <string name="label_remote_name">שם הטלפון:</string>
+    <string name="label_remote_address">כתובת MAC:</string>
+    <string name="label_connection_state">מצב חיבור:</string>
+    <string name="btn_make_discoverable">הפוך לגלוי לחיבור (2 דקות)</string>
+    <string name="btn_open_bt_settings">פתח הגדרות Bluetooth במכשיר</string>
+    <string name="btn_check_support">בדוק שוב תמיכת מקלט שמע</string>
+    <string name="state_on">מופעל</string>
+    <string name="state_off">כבוי</string>
+    <string name="state_discoverable">גלוי למכשירים אחרים</string>
+    <string name="state_not_discoverable">לא גלוי</string>
+    <string name="state_connected">מחובר</string>
+    <string name="state_disconnected">אין טלפון מחובר</string>
+    <string name="none">אין</string>
+    <string name="support_checking">בודק תמיכת A2DP Sink ברמת המערכת…</string>
+    <string name="support_supported_title">פרופיל מקלט שמע (A2DP Sink) נתמך במערכת</string>
+    <string name="support_supported_msg">מערכת ההפעלה במכשיר תומכת בקבלת מוזיקה. יש להפעיל מצב גילוי, לחבר את הטלפון השני דרך הגדרות ה-Bluetooth, והמוזיקה תושמע ברמקול של המכשיר.</string>
+    <string name="support_unsupported_title">הפעולה אינה נתמכת בגרסת אנדרואיד זו</string>
+    <string name="support_unsupported_msg">מערכת ההפעלה של המכשיר (Android AOSP) מוגדרת ברמת הקושחה כמשדר שמע (A2DP Source) בלבד, ואינה מאפשרת לאפליקציות רגילות לפעול כמקלט שמע (A2DP Sink). פרופיל Sink אינו מאופשר ב-Bluetooth stack של המכשיר.</string>
+    <string name="instructions_title">הוראות חיבור</string>
+    <string name="instructions_text">1. לחץ על \"הפוך לגלוי לחיבור\".\n2. בטלפון המשדר, חפש בהגדרות Bluetooth את שם המכשיר והתחבר אליו.\n3. לאחר הצימוד, תוכל לראות את סטטוס החיבור במסך זה.</string>
+</resources>
